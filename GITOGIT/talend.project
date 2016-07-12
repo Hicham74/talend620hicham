@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_erckIUgTEeaUu73309ZG2Q" label="gitogit" description="" language="java" technicalLabel="GITOGIT" creationDate="2016-07-12T11:29:08.189+0200" author="_erckIkgTEeaUu73309ZG2Q" productVersion="Talend Data Integration-6.2.1.20160704_1411" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Hicham74/talend620hicham.git&quot;,&quot;login&quot;:&quot;hicham.kardouna@gmx.de&quot;,&quot;passwd&quot;:&quot;K8tWuvrrmo9iDVoVFa0QyQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_erckIkgTEeaUu73309ZG2Q" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
+</xmi:XMI>
